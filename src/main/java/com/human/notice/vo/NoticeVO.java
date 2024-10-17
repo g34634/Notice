@@ -11,7 +11,7 @@ public class NoticeVO {
     private Date n_update;
     private String n_status;
 
-    // Getter & Setter
+    // Getters and Setters
     public int getN_idx() { return n_idx; }
     public void setN_idx(int n_idx) { this.n_idx = n_idx; }
 

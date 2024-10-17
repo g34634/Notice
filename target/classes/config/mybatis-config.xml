@@ -6,7 +6,12 @@
     <typeAliases>
         <typeAlias type="com.human.notice.vo.NoticeVO" alias="NoticeVO"/>
     </typeAliases>
-    <mappers>
+
+    <!-- Mapper Interface와 매핑 -->
+   <!-- <mappers>
+         NoticeMapper.xml을 등록
         <mapper resource="mapper/NoticeMapper.xml"/>
-    </mappers>
+        
+   
+    </mappers>  -->
 </configuration>
